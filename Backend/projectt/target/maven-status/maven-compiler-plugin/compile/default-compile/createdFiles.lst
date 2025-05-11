@@ -1,0 +1,12 @@
+com\projectt\Cryptography.class
+com\projectt\service\UserService.class
+com\projectt\entity\User.class
+com\projectt\entity\Recipe.class
+com\projectt\repo\UserRepo.class
+com\projectt\service\AdminService.class
+com\projectt\ProjecttApplication.class
+com\projectt\service\RecipeService.class
+com\projectt\AppController.class
+com\projectt\entity\Admin.class
+com\projectt\repo\AdminRepo.class
+com\projectt\repo\RecipeRepo.class
